@@ -1,0 +1,14 @@
+# Julia 
+*.jl.cov 
+*.jl.*.cov 
+*.jl.mem 
+Manifest.toml 
+docs/build/ 
+docs/site/ 
+ 
+# Windows 
+Desktop.ini 
+Thumbs.db 
+ 
+# MacOS 
+.DS_Store 
